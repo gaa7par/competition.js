@@ -1,8 +1,26 @@
 "use strict";
 
-function toArabic(string) {
-    let numbers = string.split('');
+function toArabic(word) {
+    let letters = word.toUpperCase();
+    
+    
+    if (letters.includes("CM"))
+        letters = letters.replace("CM", "DCCCC");
+    if (letters.includes("CD"))
+        letters = letters.replace("CD", "CCCC");
+    if (letters.includes("XC"))
+        letters = letters.replace("XC", "LXXXX");
+    if (letters.includes("XL"))
+        letters = letters.replace("XL", "XXXX");
+    if (letters.includes("IX"))
+        letters = letters.replace("IX", "VIIII");
+    if (letters.includes("IV"))
+        letters = letters.replace("IV", "IIII");
+    
+    
+    let numbers = letters.split('');
     let arabic = 0;
+    
     
     for (let number of numbers) {
         switch (number) {
@@ -34,5 +52,3 @@ function toArabic(string) {
     }
     return arabic;
 }
-
-console.log(toArabic("IV"));
