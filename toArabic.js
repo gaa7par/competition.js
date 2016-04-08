@@ -46,7 +46,7 @@ function toArabic(word) {
                 arabic += 1;
                 break;
             default:
-                console.log("You're fucked!");
+                throw "Invalid number";
                 break;
         }
     }
