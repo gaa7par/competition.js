@@ -25,8 +25,16 @@ console.log(string.includes("eggs"));
 
 let newString = string.replace("eggs", "hedge");
 console.log(newString);
-*/
 
-let string = "blueisblueisblueisblue";IV
+let string = "blue_is_the_warmest_color";IV
 let newString = string.toUpperCase();
 console.log(newString);
+*/
+
+let array = [[1, 'A'], [2, 'B'], [3, 'C'], [4, 'D']];
+
+for (let pair of array)
+    for (let seed of pair)
+        console.log(seed);
+
+console.log(array.length);
