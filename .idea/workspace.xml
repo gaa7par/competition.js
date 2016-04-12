@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74e3fa87-629e-4ea4-9d10-bfc2a514a91a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fizFooBar.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sandbox.js" afterPath="$PROJECT_DIR$/sandbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fizFooBar.js" afterPath="$PROJECT_DIR$/fizFooBar.js" />
     </list>
     <ignored path="competition.js.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,8 +66,8 @@
       <file leaf-file-name="fizFooBar.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fizFooBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="270">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -280,12 +278,12 @@
       <workItem from="1460071655608" duration="3764000" />
       <workItem from="1460229935376" duration="8000" />
       <workItem from="1460229988995" duration="117000" />
-      <workItem from="1460474091408" duration="4788000" />
+      <workItem from="1460474091408" duration="6686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27566000" />
+    <option name="totallyTimeSpent" value="29464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="7" />
@@ -531,18 +529,18 @@
     <entry file="file://$PROJECT_DIR$/fibonacci2.js" />
     <entry file="file://$PROJECT_DIR$/fibonacciPlus.js" />
     <entry file="file://$PROJECT_DIR$/fibonacciMinus.js" />
-    <entry file="file://$PROJECT_DIR$/sandbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fibonacci.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="47" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -565,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fizFooBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="270">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding />
         </state>
       </provider>

@@ -1,19 +1,16 @@
 "use strict";
 
-function fizFooBar(number, pattern) {
-    let dividers = [];
-    let words = [];
-
-    for (let pair of pattern) {
-        dividers.push(pair[0]);
-        words.push(pair[1]);
-    }
+function fizFooBar(number, array) {
+    let pattern = {};
     
-    return { dividers, words };
+    for (let pair of array) {
+        pattern[pair[0]] = pair[1];
+    }
+    console.log(pattern);
 }
 
 // test
 
 const number = 20;
-const pattern = [[2, "Two"], [3, "Three"], [5, "Five"]];
-console.log(fizFooBar(number, pattern));
+const array = [[2, "Two"], [3, "Three"], [5, "Five"]];
+console.log(fizFooBar(number, array));
