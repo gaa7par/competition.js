@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74e3fa87-629e-4ea4-9d10-bfc2a514a91a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gameOfLife.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gameOfLife.js" afterPath="$PROJECT_DIR$/gameOfLife.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sandbox.js" afterPath="$PROJECT_DIR$/sandbox.js" />
     </list>
     <ignored path="competition.js.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +38,8 @@
       <file leaf-file-name="sandbox.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sandbox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+            <state relative-caret-position="559">
+              <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -87,8 +88,8 @@
       <file leaf-file-name="gameOfLife.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gameOfLife.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+            <state relative-caret-position="324">
+              <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
               <folding />
             </state>
           </provider>
@@ -115,11 +116,11 @@
         <option value="$PROJECT_DIR$/fibonacci.js" />
         <option value="$PROJECT_DIR$/toRoman.js" />
         <option value="$PROJECT_DIR$/toArabic.js" />
-        <option value="$PROJECT_DIR$/sandbox.js" />
         <option value="$PROJECT_DIR$/a" />
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/fizFooBar.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/sandbox.js" />
         <option value="$PROJECT_DIR$/gameOfLife.js" />
       </list>
     </option>
@@ -273,9 +274,9 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Node.js.gameOfLife.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.fizFooBar.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.sandbox.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.sandbox.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.fizFooBar.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
         <item index="4" class="java.lang.String" itemvalue="Node.js.toArabic.js" />
       </list>
     </recent_temporary>
@@ -308,12 +309,12 @@
       <workItem from="1460494894849" duration="1528000" />
       <workItem from="1460584269490" duration="471000" />
       <workItem from="1460812272122" duration="8000" />
-      <workItem from="1460812301003" duration="2123000" />
+      <workItem from="1460812301003" duration="4259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36200000" />
+    <option name="totallyTimeSpent" value="38336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="7" />
@@ -698,14 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sandbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fizFooBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -714,10 +707,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sandbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gameOfLife.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="82" selection-start-line="15" selection-start-column="82" selection-end-line="15" selection-end-column="82" />
+        <state relative-caret-position="324">
+          <caret line="18" column="82" selection-start-line="18" selection-start-column="82" selection-end-line="18" selection-end-column="82" />
           <folding />
         </state>
       </provider>
