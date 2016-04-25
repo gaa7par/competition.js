@@ -2,6 +2,8 @@
 
 <br />
 
+<h2>First Etap</h2>
+
 <strong>Solved:</strong>
 <ul>
     <li>Fibonacci</li>
@@ -13,4 +15,18 @@
 <strong>Not solved:</strong>
 <ul>
     <li>Game of Life</li>
+</ul>
+
+
+<h2>Final Etap</h2>
+
+<strong>Solved:</strong>
+<ul>
+    <li>Luhn Algorithm</li>
+    <li>Statistics</li>
+</ul>
+
+<strong>Not solved:</strong>
+<ul>
+    <li>Robot Grid</li>
 </ul>
