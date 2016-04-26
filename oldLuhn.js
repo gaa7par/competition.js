@@ -12,7 +12,7 @@ export default function(some_number) {
   }
 
   for (let number of numbers) {
-    //parseInt(number);
+    // parseInt(number);
     if (numbers.indexOf(number) % 2 == 0)
       multipliers.push(2);
     else
